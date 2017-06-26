@@ -1,0 +1,15 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "sourceMap": false,
+        "target": "es2016",
+        "noEmitHelpers": false,
+        "moduleResolution": "node",
+        "module": "commonjs",
+        "jsx": "react",
+        "reactNamespace": "React",
+        "declaration": false,
+        "isolatedModules": false,
+        "lib": [ "es2017", "dom" ]
+    }
+}
